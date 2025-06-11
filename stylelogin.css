@@ -102,7 +102,7 @@ header nav a {
     padding: 2rem;
     width: 100%;
     max-width: 400px;
-    color: white;
+    color: rgb(231, 231, 231);
 }
 
 .login-header {
@@ -128,7 +128,7 @@ header nav a {
 .input-group input {
     width: 100%;
     padding: 10px;
-    background-color: #f7f4f4;
+    background-color: #80babe;
     border: 1px solid rgb(137, 172, 163);
     color: white;
     box-sizing: border-box; /* Garante que o padding não aumente a largura */
